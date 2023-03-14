@@ -10,3 +10,4 @@ firetouchinterest(game.Players.LocalPlayer.Character.Head, summerOrb, 0)
 end
 end
 game:GetService("ReplicatedStorage").Remotes.Rebirth:FireServer()
+end
